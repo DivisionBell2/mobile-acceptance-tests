@@ -1,0 +1,17 @@
+{
+  "require": {
+    "butik/libraries-acceptance-ui-tests-core": "@dev"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://bitbucket.butik.ru/scm/qa/libraries-acceptance-ui-tests-core.git"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/",
+      "t\\": "t/"
+    }
+  }
+}
