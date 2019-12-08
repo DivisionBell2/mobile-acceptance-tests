@@ -12,8 +12,4 @@ This framework is only for skills demonstration. Tests executing is possible onl
 2. install core framework
 3. install dependencies by `sh install.sh`
 4. run tests by `sh run_tests_in_docker.sh`
-5. change configuration in .env-файл 
-
-## folders
-/src/ - main code folder  
-/tests_results/ - for tests artifacts
+5. change configuration in .env-файл
